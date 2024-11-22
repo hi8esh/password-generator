@@ -51,7 +51,6 @@ function copyLeft() {
 }
 
 function showbackLeft(copiedText) {
-    // let copiedText = document.getElementById("pass-left").innerHTML;
     setTimeout(() => {
 
     }, 1000);
